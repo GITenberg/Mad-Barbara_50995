@@ -1,15 +1,21 @@
 _repo: Mad-Barbara_50995
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Clark, Christopher
     gutenberg_agent_id: '46188'
     url: http://www.gutenberg.org/2009/agents/46188
+covers:
+- cover_type: archival
+  image_path: 50995-h/images/cover.jpg
 creator:
   author:
     agent_name: Deeping, Warwick
     gutenberg_agent_id: '41615'
     url: http://www.gutenberg.org/2009/agents/41615
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50995#Mad-Barbara
 gutenberg_issued: '2016-01-22'
 gutenberg_type: Text
 identifiers:
